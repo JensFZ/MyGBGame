@@ -1,0 +1,1 @@
+ ..\bgbw\bgb64.exe .\main.gb -screenonexit .\test.bmp
