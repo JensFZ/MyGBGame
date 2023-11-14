@@ -7,7 +7,7 @@ Requires https://github.com/gbdk-2020/gbdk-2020
 
 # Screenshot
 
-![Screenshot](https://github.com/JensFZ/MyGBGame/blob/main/test.bmp?raw=true)
+![Screenshot](https://github.com/JensFZ/MyGBGame/blob/main/screenshot.bmp?raw=true)
 
 ## License
 
